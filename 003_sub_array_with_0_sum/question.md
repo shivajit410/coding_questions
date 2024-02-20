@@ -15,7 +15,7 @@ Given an array of intetgers **A,** find and return whether the given array conta
 
 The only argument given is the integer array - **A**
 
-Output Format
+#### Output Format
 
 Return whether the given array contains sub array with sum equal to 0
 
