@@ -10,3 +10,4 @@ This repo contains coding questions along with their solutions
 6. Count Factors - [Question](006_count_factors/question.md) - [Solution](006_count_factors/index.js)
 7. Is Prime - [Question](007_is_prime/question.md) - [Solution](007_is_prime/index.js)
 8. Count of Primes - [Question](008_count_of_primes/question.md) - [Solution](008_count_of_primes/index.js)
+9. Perfect Numbers - [Question](009_perfect_numbers/question.md) - [Solution](009_perfect_numbers/index.js)
