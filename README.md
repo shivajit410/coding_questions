@@ -7,3 +7,4 @@ This repo contains coding questions along with their solutions
 3. Sub Array with 0 sum - [Question](003_sub_array_with_0_sum/question.md) - [Solution](003_sub_array_with_0_sum/index.js)
 4. Common Elements - [Question](004_common_elements/question.md) - [Solution](004_common_elements/index.js)
 5. Power Function - [Question](005_power_function/question.md) - [Solution](005_power_function/index.js)
+6. Count Factors - [Question](006_count_factors/question.md) - [Solution](006_count_factors/index.js)
